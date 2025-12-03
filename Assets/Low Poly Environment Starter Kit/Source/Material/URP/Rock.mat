@@ -62,7 +62,11 @@ Material:
     - Vector2_d1261ba7c1e140be8ca68486b05912b4: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
+<<<<<<< HEAD
 --- !u!114 &4360192034663639764
+=======
+--- !u!114 &6235130431733304528
+>>>>>>> e4c8fe5daef50bb51e53bb5a571fa705808b8699
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

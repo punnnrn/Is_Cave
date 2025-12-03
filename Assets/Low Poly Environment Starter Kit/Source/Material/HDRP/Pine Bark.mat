@@ -16,7 +16,11 @@ MonoBehaviour:
   hdPluginSubTargetMaterialVersions:
     m_Keys: []
     m_Values: 
+<<<<<<< HEAD
 --- !u!114 &-1475520879430259712
+=======
+--- !u!114 &-7380496712242151702
+>>>>>>> e4c8fe5daef50bb51e53bb5a571fa705808b8699
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
